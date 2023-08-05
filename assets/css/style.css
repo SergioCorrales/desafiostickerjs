@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.contenedor{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+.link{
+    width: 400px;
+}
+.zelda{
+    width: 330px;
+}
+.trifuerza{
+    width: 400px;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+}
